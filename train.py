@@ -1,8 +1,8 @@
 import argparse
-from models.CNN2 import CNN2
-from models.LSTM import LSTM
-from models.CNN_LSTM import CNN_LSTM
-from models.LMU import LMUModel
+from CNN2 import CNN2
+from LSTM import LSTM
+from CNN_LSTM import CNN_LSTM
+from LMU import LMUModel
 from run import Runner
 import torch
 from torchsummary import summary
