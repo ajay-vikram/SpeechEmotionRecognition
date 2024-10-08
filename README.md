@@ -54,3 +54,6 @@ Both the kernels, **W**, and the encoders, **e**, are learned. Intuitively, the 
 learn to compute nonlinear functions across the memory, while the encoders learn to
 project the relevant information into the memory (see `paper
 <https://papers.nips.cc/paper/9689-legendre-memory-units-continuous-time-representation-in-recurrent-neural-networks.pdf>`_ for details).
+
+## References
+- https://github.com/hrshtv/pytorch-lmu
