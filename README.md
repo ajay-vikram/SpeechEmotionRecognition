@@ -6,10 +6,10 @@ Speech Emotion Classification on 4 datasets using Legendre Memory Units (LMU)
 - *utils.py*: modify training configurations
 
 ## Datasets
-Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio </br>
-Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D): https://www.kaggle.com/datasets/ejlok1/cremad </br>
-Surrey Audio-Visual Expressed Emotion (SAVEE): https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee </br>
-Toronto emotional speech set (TESS): https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+1. Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+2. Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D): https://www.kaggle.com/datasets/ejlok1/cremad 
+3. Surrey Audio-Visual Expressed Emotion (SAVEE): https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee 
+4. Toronto emotional speech set (TESS): https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 ## Training
 
